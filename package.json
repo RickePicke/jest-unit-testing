@@ -1,0 +1,21 @@
+{
+  "name": "jest-unit-testing",
+  "version": "1.0.0",
+  "description": "Unit test exampels with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "testing",
+    "jest",
+    "unit",
+    "tests"
+  ],
+  "author": "Rickard Börjesson",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
